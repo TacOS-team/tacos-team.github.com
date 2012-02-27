@@ -162,6 +162,10 @@ li {
     margin-top: -1em;
 }
 
-
+#langage {
+	float: right;
+	position:relative;
+	top: -40px;
+}
 
 
